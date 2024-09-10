@@ -1,0 +1,93 @@
+/*Header*/
+header{
+  display: flex;
+  justify-content: space-between;
+ background-color: white
+}
+img{
+  height: 120px;
+ }
+h1{
+  color: #c81d11;
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 800px;
+  font-style: normal;
+  }
+
+.al-lado{
+  display: inline;
+}
+/*Fondo Body*/
+body{
+ background-image: url('multimedia/fondo.jpg');
+ background-size: cover;
+ background-position: center;
+}
+/*Título*/
+h2{
+  font-family: "Lugrasimo", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #b7cbef;
+  text-align: center;
+}
+/*Video*/
+video{
+  width: 99%;
+ }
+ /*Botones*/
+ button{
+  background-color: indianred;
+  color: #1f3a3d;
+  border: 1px solid #1f3a3d;
+  height: 50px;
+  justify-content: center;
+ }
+
+/*subtitulos*/
+h4{
+  background-color: #181c27;
+  color: #b7cbef;
+  text-align: center;
+}
+/*Palabras en blanco*/
+h3{
+  color: white;
+  text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
+ul{
+  color: white;
+  list-style-type: georgian
+}
+ol{
+  color: white;
+}
+/*Enlaces*/
+a{
+  color: #1f3a3d;
+  text-decoration: none;
+}
+#enlace-insta{
+  color: white;
+  background-color: #e76a83;
+}
+#enlace-face{
+  color: white;
+  background-color: #4179ce;
+}
+/*Footer*/
+  footer{
+background-color: white;
+}
+.img-trabajos{
+  width: 24%;
+  height: auto;
+}
+form label{
+  color: white;
+}
+
